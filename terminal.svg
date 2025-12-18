@@ -1,0 +1,38 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .container { fill: #0d0221; stroke: #01cdfe; stroke-width: 4px; rx: 10px; }
+    .inner-box { fill: #261447; stroke: #ff71ce; stroke-width: 2px; }
+    .text-main { font-family: 'Courier New', monospace; fill: #fff; }
+    .title { font-size: 40px; fill: #ff71ce; font-weight: bold; text-shadow: 2px 2px 0px #01cdfe; }
+    .subtitle { font-size: 14px; fill: #05ffa1; letter-spacing: 2px; }
+    .heading { font-size: 18px; fill: #fff0f5; font-weight: bold; }
+    .highlight-pink { fill: #ff71ce; }
+    .highlight-blue { fill: #01cdfe; }
+    .highlight-green { fill: #05ffa1; }
+    .body-text { font-size: 14px; line-height: 1.6; }
+  </style>
+
+  <rect x="5" y="5" width="790" height="390" class="container" />
+
+  <text x="400" y="60" text-anchor="middle" class="text-main title">ＷＥＬＣＯＭＥ</text>
+  <text x="400" y="90" text-anchor="middle" class="text-main subtitle">/// SYSTEM INITIALIZED /// USER: [ioana-zzz] ///</text>
+
+  <line x1="50" y1="110" x2="750" y2="110" stroke="#b967ff" stroke-width="2" stroke-dasharray="5,5" />
+
+  <rect x="50" y="140" width="700" height="200" class="inner-box" />
+  
+  <text x="70" y="170" class="text-main heading">> ＡＢＯＵＴ ＭＥ</text>
+  
+  <text x="70" y="210" class="text-main body-text">
+    Greetings, Traveler. I am an <tspan class="highlight-blue">undergrad CS student @UBBCluj</tspan>.
+  </text>
+  <text x="70" y="240" class="text-main body-text">
+    <tspan class="highlight-pink">/// SYSTEM DIAGNOSTICS ///</tspan>
+  </text>
+  <text x="70" y="270" class="text-main body-text">
+    I focus on <tspan class="highlight-pink">Backend Development</tspan>, <tspan class="highlight-green">Computer Networks</tspan>, and
+  </text>
+  <text x="70" y="300" class="text-main body-text">
+    am currently initializing protocols for <tspan class="highlight-pink">Cybersecurity</tspan>.
+  </text>
+</svg>
