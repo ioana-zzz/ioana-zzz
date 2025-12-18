@@ -4,9 +4,6 @@
 
   <br /><br />
 
-  <img src="https://media.giphy.com/media/LpLd2NGvpaVXq/giphy.gif" width="400" style="border-radius: 10px; border: 2px solid #b967ff;">
-
-  <br /><br />
 
   <h3 align="center">ＴＥＣＨ　ＳＴＡＣＫ</h3>
   
