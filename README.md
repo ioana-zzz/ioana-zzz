@@ -28,7 +28,7 @@
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ioana-zzz&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff71ce&icon_color=01cdfe&text_color=fff" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioana-zzz&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff71ce&text_color=fff" />
 
   <br /><br />
